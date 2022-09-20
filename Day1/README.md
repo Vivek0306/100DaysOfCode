@@ -21,5 +21,3 @@
 - If the reversed number is equal to the entered number and is greater than or equal to zero, the number is a palindrome. Else it isn't a palindrome.
 
 > Here the problem faced was to check negative numbers and weather the number is just 0. Negative numbers are not palindrome numbers.
-=======
->>>>>>> fadee1f4f92ab8d9358d285b7dbee32272e9f57a
